@@ -1,0 +1,12 @@
+{
+  "name": "Custom Resolver Boilerplate for Hasura GraphQL Engine",
+  "description": "Deploy custom resolver boilerplate to Heroku",
+  "keywords": [
+    "graphql",
+    "heroku",
+    "postgres",
+    "hasura",
+    "resolvers"
+  ],
+  "repository": "https://github.com/hasura/custom-resolvers-boilerplate"
+}

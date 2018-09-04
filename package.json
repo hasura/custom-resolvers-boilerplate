@@ -5,7 +5,8 @@
     "url": "https://github.com/praveenweb/graphql-custom-resolver-example"
   },
   "scripts": {
-    "start": "NODE_TLS_REJECT_UNAUTHORIZED=0 nodemon -r esm src/index.js"
+    "start-dev": "nodemon -r esm src/index.js",
+    "start": "node -r esm src/index.js"
   },
   "dependencies": {
     "apollo-fetch": "^0.7.0",
