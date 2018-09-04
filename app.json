@@ -8,5 +8,5 @@
     "hasura",
     "resolvers"
   ],
-  "repository": "https://github.com/hasura/custom-resolvers-boilerplate"
+  "repository": "https://github.com/hasura/custom-resolvers-boilerplate/tree/readme-update"
 }
