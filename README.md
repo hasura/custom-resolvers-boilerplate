@@ -1,3 +1,9 @@
+# Important: Moved to [hasura/graphql-engine](https://github.com/hasura/graphql-engine/tree/master/community/boilerplates/custom-resolvers)
+
+The contents of this repo have been moved to [hasura/graphql-engine](https://github.com/hasura/graphql-engine/tree/master/community/boilerplates/custom-resolvers). Please create all issues and pull requests there.
+
+---
+
 # GraphQL Custom Resolver Example
 
 This is a simple example of using a custom resolver with Hasura's GraphQL API.
